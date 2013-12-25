@@ -1,7 +1,7 @@
 AMIT!!???! Welcome to RUBY - TESTING - SERVER!
 =======================
 
-The testing grounds for A360 development.
+The testing        grounds for A360 development.
 This RUBY server will mimic the external server to which we connect to test diffferent aspects of the SDK development.
 
 To launch the server use:<br/>
